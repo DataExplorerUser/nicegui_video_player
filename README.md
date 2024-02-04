@@ -4,3 +4,6 @@ The code in this repository solves the issue by combining two essential parts.
 
 1. it adjusts the page height to the viewport height.
 2. Secondly, it applies a clever combination of CSS to the container of the video player and the video player itself. The solution is applicable equally to a video player in a browser and to a video player in native (desktop) mode.
+
+https://github.com/DataExplorerUser/nicegui_video_player/assets/54912887/ad32ad60-ce4f-4973-bbf6-285b03844fb8
+
